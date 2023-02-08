@@ -11,5 +11,9 @@ public class B
   {
 	  this .i=i;
   }
+  public void m1()
+  {
+	  
+  }
   
 }
